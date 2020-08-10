@@ -1,0 +1,232 @@
+/* big tablets to 1200px(width smaller than the 1140px row*/
+@media only screen and (max-width:1200px){
+    .nav-img {
+        padding: 49px 0px 0px 100px;
+    }
+    .nav-bar {
+        font-size: 30px;
+    }
+    .container-1 img {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .container-2 {
+        font-size: 40px;
+        background-color: #181e2a;
+        margin-top: 113px;
+    }
+    .container-2 p {
+        font-size: 15px;
+    }
+    .container-3 img {
+        top: -48em;
+    }
+    .container-2 button {
+        padding: 25px 135px;
+        margin: 45px 0px 70px 0px;
+        font-size: 45px;
+    }
+    .container-5{
+        margin-top: 0px;
+        flex-direction: column;
+    }
+    .cont-5 p{
+        font-size: 15px;
+    }
+    .cont-6 p{
+        font-size: 13px;
+    }
+    .cont-7 p{
+        font-size: 14px;
+    }
+    .cont-8 p{
+        font-size: 15px;
+    }
+    .container-5 img {
+        padding-top: 160px;
+    }
+    .container-6{
+        flex-direction: column;
+    }
+    .container-7 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .container-8 {
+    flex-direction: column;
+    text-align: center;
+    }
+    .row-2 img {
+        height: 125px;
+    }
+    .row-5 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .row-6 p {
+        margin-top: 25px;
+        font-size: 25px;
+    }
+    .row-6 img{
+        width: 60px;
+    }
+    .row-7 p {
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    .row-7 img{
+        width: 75px;
+    }
+    .row-8 {
+        font-size: 20px;
+    }
+    .container-9{
+        height: 547px;
+    }
+    .container-9 p{
+        font-size: 36px;
+    }
+    .container-9 h2{
+        font-size: 42px;
+    }
+    [type="text"] {
+        font-size: 33px;
+    }
+    .container-9 button {
+        margin-top: 77px;
+        font-size: 37px;
+    }
+    .row-2 p{
+        font-size: 14px;
+    }
+    .container-7 h2 {
+        font-size: 80px;
+    }
+    .cont-9 p{
+        font-size: 13px;
+    }
+    .container-2 h2{
+        position: relative;
+        top: -59px;
+    }
+
+
+
+}
+/*small tablets to big tablets: from 768px to 1023*/
+@media only screen and (max-width:1023px){
+    .nav-img {
+        padding: 49px 0px 0px 100px;
+    }
+    .nav-bar {
+        font-size: 30px;
+    }
+    .container-1 img {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .container-2 {
+        font-size: 40px;
+        background-color: #181e2a;
+        margin-top: 113px;
+    }
+    .container-2 p {
+        font-size: 15px;
+    }
+    .container-3 img {
+        top: -48em;
+    }
+    .container-2 button {
+        padding: 25px 135px;
+        margin: 45px 0px 70px 0px;
+        font-size: 45px;
+    }
+    .container-5{
+        margin-top: 0px;
+        flex-direction: column;
+    }
+    .cont-5 p{
+        font-size: 15px;
+    }
+    .cont-6 p{
+        font-size: 13px;
+    }
+    .container-5 img {
+        padding-top: 160px;
+    }
+    .container-6{
+        flex-direction: column;
+    }
+    .container-6 img{
+        padding-top: 160px;
+    }
+    .container-7 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .container-8 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .row-2 img {
+        height: 125px;
+    }
+    .row-5 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .row-6 p {
+        margin-top: 25px;
+        font-size: 25px;
+    }
+    .row-6 img{
+        width: 60px;
+    }
+    .row-7 p {
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    .row-7 img{
+        width: 75px;
+    }
+    .row-8 {
+        font-size: 20px;
+    }
+    .container-9 p{
+        font-size: 36px;
+    }
+    [type="text"] {
+        font-size: 33px;
+    }
+    .container-9 button {
+        margin-top: 77px;
+        font-size: 37px;
+    }
+    .container-9{
+        height: 547px;
+    }
+    .row-2 p{
+        font-size: 14px;
+    }
+    .container-7 h2 {
+        font-size: 80px;
+    }
+    .cont-9 p{
+        font-size: 13px;
+    }
+    .container-2 h2{
+        position: relative;
+        top: -59px;
+    }
+    .
+
+
+}
+/* samll phone to small tablets: from 481px to 767px*/
+@media only screen and (max-width:767px){
+
+}
+/*small phone: from 0 to 480px*/
+@media only screen and (max-width:480px){
+    
+}
